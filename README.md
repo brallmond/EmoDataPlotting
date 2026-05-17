@@ -89,7 +89,7 @@ csv files are covered under the MIT license, meaning they can be used by anyone 
 
 The data csvs themselves are under the GNU GPLv3 license, which requires anyone making a modification to publish it
 publicly under the same license. This is because the data is sourced from the works of others, with some interpretation,
-and is readily obtainable on the internet, but is not necessarily public domain in all cases. The original sources are
+and is readily obtainable on the internet. The original sources are
 linked or referenced at the top of each data csv.
 
 This licensing is intended to deter any non-research, for-profit entity from using the data csvs, and at least require
